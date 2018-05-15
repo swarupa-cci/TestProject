@@ -27,7 +27,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         var t = "Yes"
 
+
         var g = "xx"
+
+        var x = "Hi"
+
         return true
     }
 
