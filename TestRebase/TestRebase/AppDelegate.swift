@@ -22,7 +22,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         
         var y:String = "Ths is a second test"
+        
+        var z  = "I want to do rebase"
+        
+        var t = "Yes"
 
+        var x = "Hi"
         return true
     }
 
